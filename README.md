@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 
 👩🏻‍💻 Currently working on Web Development, with Laravel and React JS.
-- Computer Science Undergraduate Student
