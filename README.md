@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Amanda 👋
 
 <!--
 **jesslynamanda13/jesslynamanda13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 👩🏻‍💻 Currently working on Web Development, with Laravel and React JS.
+- Computer Science Undergraduate Student
