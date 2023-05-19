@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 👩🏻‍💻 Currently working on Web Development, with Laravel and React JS.
+[![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesslynamanda13)](https://github.com/jesslynamanda13/github-readme-stats)
