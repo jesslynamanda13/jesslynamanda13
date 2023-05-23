@@ -1,4 +1,4 @@
-### Hi there, I'm Amanda 👋
+### 🎀 ⋆ 🎀 𝘏𝘪, 𝘐'𝘮 𝘈𝘮𝘢𝘯𝘥𝘢 👋
 
 <!--
 **jesslynamanda13/jesslynamanda13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
