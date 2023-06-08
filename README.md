@@ -1,5 +1,5 @@
 <img style = "width:200px" src = "https://4.bp.blogspot.com/-Bsm3T7WQSJ8/Xl-qYsOFG7I/AAAAAAAWlDA/Vm9tglrp2YYo8wRVvBGccNy1BsYj_mvJACLcBGAsYHQ/s1600/AW4195093_22.gif">
-<h1>Hi, I'm Amanda</h1>
+<h1> Hi, I'm Amanda </h1>
 <!--
 **jesslynamanda13/jesslynamanda13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
