@@ -1,4 +1,5 @@
 <img style = "width:200px" src = "https://4.bp.blogspot.com/-Bsm3T7WQSJ8/Xl-qYsOFG7I/AAAAAAAWlDA/Vm9tglrp2YYo8wRVvBGccNy1BsYj_mvJACLcBGAsYHQ/s1600/AW4195093_22.gif">
+<h1> Hi, I'm Amanda </h1>
 
 👩🏻‍💻 Working on Web Development, mostly with Laravel and React JS.
 <h3 align="left">Currently learning: </h3>
