@@ -1,4 +1,4 @@
-<img style = "width:200px" src = "https://4.bp.blogspot.com/-Bsm3T7WQSJ8/Xl-qYsOFG7I/AAAAAAAWlDA/Vm9tglrp2YYo8wRVvBGccNy1BsYj_mvJACLcBGAsYHQ/s1600/AW4195093_22.gif](https://www.ilikesticker.com/LineStickerAnimation/W4195093-Daily-Life-of-Loppie-2-Animated/en">
+<img style = "width:200px" src = "https://i.pinimg.com/originals/d6/d9/53/d6d953aa46660eee7d34af20568d5867.gif">
 <h1> Hi, I'm Amanda </h1>
 
 👩🏻‍💻 Working on Web Development, mostly with Laravel and React JS.
