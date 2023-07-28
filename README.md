@@ -2,5 +2,4 @@
 <h1> Hi, I'm Amanda </h1>
 
 👩🏻‍💻
-[![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesslynamanda13)](https://github.com/jesslynamanda13/github-readme-stats)]
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesslynamanda13&layout=compact&show_icons=true&theme=tokyonight">
