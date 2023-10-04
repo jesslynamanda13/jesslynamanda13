@@ -1,5 +1,4 @@
-<img style = "width:200px" src = "https://i.pinimg.com/originals/d6/d9/53/d6d953aa46660eee7d34af20568d5867.gif">
-<h1> Hi, I'm Amanda </h1>
+<img style = "width:200px" src = "https://gifdb.com/images/high/nintendo-ds-super-mario-bros-adventure-lpy34b0xpdmn5tj1.webp">
 
 👩🏻‍💻
 <br></br>
