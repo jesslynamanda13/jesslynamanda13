@@ -2,4 +2,6 @@
 
 👩🏻‍💻
 <br></br>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jesslynamanda13)](https://git.io/streak-stats)
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesslynamanda13&layout=compact&show_icons=true&theme=tokyonight">
