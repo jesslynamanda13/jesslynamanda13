@@ -6,7 +6,7 @@
 <h2>Jesslyn Amanda</h2>
 <u>software engineering and product management 👾📦</u>
 <p>Let's connect at <a href="https://www.linkedin.com/in/jesslyn-amanda-mulyawan-b425b0251/">LinkedIn</a></p>
-<br>
+
 <h3>Languages and Tools:</h3>
 <p> 
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
