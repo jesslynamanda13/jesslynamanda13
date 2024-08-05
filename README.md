@@ -5,7 +5,8 @@
 <i>By design, everything must be engineered.</i>
 <h2>Jesslyn Amanda</h2>
 <u>software engineering and product management 👾📦</u>
-<a href="https://www.linkedin.com/in/jesslyn-amanda-mulyawan-b425b0251/">LinkedIn</a> 
+<p>Let's connect at <a href="https://www.linkedin.com/in/jesslyn-amanda-mulyawan-b425b0251/">LinkedIn</a></p>
+
 <br>
 <h3>Languages and Tools:</h3>
 <p> 
